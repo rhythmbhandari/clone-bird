@@ -1,16 +1,18 @@
 # clone_bird
 
-A new Flutter project.
+Clone of the 2013 sensation Flappy bird. Created using Flutter.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot_1627420796](https://user-images.githubusercontent.com/69192521/127229962-652a6f66-3158-4a77-ad94-13f361739cc8.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_1627420838](https://user-images.githubusercontent.com/69192521/127229978-1e25f08b-891f-4669-abfa-c013811f0bb5.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_1627420705](https://user-images.githubusercontent.com/69192521/127230022-c62ced39-e3ae-42c8-be60-a6fa6b7b3d08.png)
+
+
+![Screenshot_1627420810](https://user-images.githubusercontent.com/69192521/127230052-5284f5e4-da52-495b-9be7-573779ab30d9.png)
+
+
